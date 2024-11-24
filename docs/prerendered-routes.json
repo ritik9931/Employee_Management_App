@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/dashboard",
+    "/employee",
+    "/login",
+    "/project",
+    "/project-employee"
+  ]
+}
