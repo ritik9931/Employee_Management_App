@@ -21,7 +21,11 @@
     "@angular/platform-server": "^18.1.0",
     "@angular/router": "^18.1.0",
     "@angular/ssr": "^18.1.2",
+    "awesome": "^0.0.7",
+    "bootstrap": "^5.3.3",
     "express": "^4.18.2",
+    "font": "^0.0.4",
+    "font-awesome": "^4.7.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
